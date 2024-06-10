@@ -1,2 +1,2 @@
 # Image Proccessing Exercices
- 
+Please pull all files at the same time and keep'em in the same folder... 
